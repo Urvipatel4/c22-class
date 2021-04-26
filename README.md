@@ -1,1 +1,1 @@
-# c22-class
+# Box Class
